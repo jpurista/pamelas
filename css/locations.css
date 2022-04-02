@@ -1,0 +1,50 @@
+.tabs h1 {
+        text-align: center;
+        margin-bottom: 0;
+}
+
+table {
+        width: 100%;
+}
+
+.locations-table-row td:not(.locations-table-row td:first-child) {
+        text-align: center;
+        font-size: 1.08em;
+}
+
+.locations-table-col {
+        text-align: center;
+}
+
+.order-btn, .menu-btn {
+        margin-top: 25px;
+        width: 40%;
+        margin: 0px 5%;
+        height: 40px;
+        border: none;
+        background-color: #ff835e;
+        color: white;
+        border-radius: 2px;
+}
+
+.full-btn {
+        width: 90% !important;
+}
+
+.order-btn:hover, .full-btn:hover, .menu-btn:hover {
+        cursor: pointer;
+        background-color: #e5704c;
+}
+
+.tabs p {
+        text-align: center;
+        margin-top: 0px;
+}
+
+.tabs p a {
+        color: #e5704c;
+}
+
+.tabs p a:visited {
+        color: #aa8335;
+}

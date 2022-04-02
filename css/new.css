@@ -1,0 +1,22 @@
+.reviews h2{
+        font-weight: normal;
+        text-align: center;
+}
+
+.reviews a{
+        color: #e5704c;
+}
+
+.reviews a:visited {
+        color: #aa8335;
+}
+
+.tripadvisor, .yelp {
+ display: inline-block;
+}
+.widSSP, .u-horizontal-scrollbar {
+        width: 40vw !important;
+}
+.yelp iframe{
+        padding: 20px
+}
