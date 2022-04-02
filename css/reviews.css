@@ -1,9 +1,9 @@
-.reviews h2{
+.reviews h2 {
         font-weight: normal;
         text-align: center;
 }
 
-.reviews a{
+.reviews a {
         color: #e5704c;
 }
 
@@ -12,11 +12,26 @@
 }
 
 .tripadvisor, .yelp {
- display: inline-block;
+        display: inline-block;
 }
+
 .widSSP, .u-horizontal-scrollbar {
         width: 40vw !important;
 }
-.yelp iframe{
+
+.yelp iframe {
         padding: 20px
+}
+
+.leave-review {
+        text-align: center;
+}
+
+.leave-review img {
+        height: 50px;
+}
+
+.gazette img{
+        width: 50%;
+        margin: 0px 25%;
 }

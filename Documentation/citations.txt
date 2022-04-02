@@ -1,0 +1,15 @@
+fonts
+- Epilogue font found here (https://fonts.google.com/specimen/Epilogue?query=epil)
+
+images
+- the logo present on the website was adapted from the logo present on pamela's diner menu
+ - from the pamela's webste:
+        - eggs.png
+        - crepe2.png
+        - breakfast-plate.png
+        - burger.png
+- crepe.jpeg (https://bit.ly/3uRdr9N)
+- restaurant.jpeg (https://bit.ly/3tYpl2E)
+- crepes3.jpeg (https://bit.ly/3LSqOxJ)
+- french-toast.jpeg (https://bit.ly/3J11jbw)
+- work-location.jpeg (https://bit.ly/3J2iFEI)

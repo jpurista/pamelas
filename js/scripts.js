@@ -1,4 +1,5 @@
-$(function(){
+
+$(function(){ //from jquery UI
         $('#tabs').tabs();
 });
 
@@ -24,7 +25,7 @@ function validate() {
 function mailto() {
         console.log(' mailto');
 
-        var email = 'jurista@andrew.cmu.edu';
+        var email = 'pam@pamelasdiner.com';
         var emailBody = $('#msg').val();
 
         if ($('#type').val() == 'Other') {
